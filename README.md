@@ -1,3 +1,5 @@
+### This is the unofficial ServerServices version, please refer to https://github.com/mcMMO-Dev/mcMMO for official version.
+
 # mcMMO
 ## The #1 RPG Mod for Minecraft
 
